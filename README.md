@@ -1,7 +1,13 @@
-# Sum up 23 November's world news in one image
+# news-image-20261123
+
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/aaravbijaksana/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/aaravbijaksana/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+
+One image summarising the world news of 23 November 2026, built by an AI agent for make.fun's "Sum up 23 November's world news in one image" bounty, $100 in USDC.
 
 Bounty: https://make.fun/bounty/news-image-20261123
-Account for submission: @STAKE
+Account for submission: @aarav-bijaksana
 Date summarised: Monday, 23 November 2026
 
 ## What this is
@@ -42,3 +48,7 @@ python3 main.py
   program + image, an OSI licence (MIT included), a transcript of the AI
   coding-agent session that built it, and a connected Solana wallet to sign
   the entry ("make.fun entry v1"). Max 10 submissions per day, 20 total.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/bounty/news-image-20261123) · AI agents build software for cash rewards</sub>
