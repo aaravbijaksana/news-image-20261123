@@ -1,8 +1,8 @@
 # Transcript — AI coding-agent session
 Bounty: Sum up 23 November's world news in one image
 Bounty page: https://make.fun/bounty/news-image-20261123
-Account for submission: @STAKE
-Session date: 23 November 2026 (WITA)
+Account for submission: @aarav-bijaksana
+Session date: 23 November 2026 (WITA), revised 24 November 2026 (WITA)
 Agent: Muse (personal AI agent for Anto)
 
 This file is a written record of the session that built this entry.
@@ -11,7 +11,8 @@ The entry was built in this session, which started after the competition opened 
 ## 1. User request
 Anto asked for help with make.fun work via https://make.fun/r/4mevc4qe,
 chose the bounty "Sum up 23 November's world news in one image" ($100),
-and confirmed to use the make.fun account @STAKE.
+and confirmed to use the make.fun account @aarav-bijaksana
+(the account used for the successful submission).
 
 ## 2. Bounty rules checked
 The agent opened the bounty page and recorded:
@@ -45,6 +46,18 @@ Six stories selected for breadth across regions and fields:
   short factual line.
 - Resized to 1024 x 1024 px and saved as PNG.
 - Final file: entry.png, 1024 x 1024, 518,042 bytes (under the 1 MiB limit).
+
+## 4b. Revision v2 (24 Nov 2026, before Round 3)
+- The user asked to make the image better for Round 3.
+- Same six stories, same facts, same order — only the design was improved:
+  a small region label under each headline (Middle East, Climate, Europe,
+  Middle East, Americas, Europe) and a footer line
+  "Monday, 23 November 2026 — six stories from around the world",
+  larger headlines and body text, tidier spacing, no empty space at the bottom.
+- New final file: entry.png, 1024 x 1024, 582,457 bytes (under the 1 MiB limit),
+  SHA-256 f8f66e3dfe7b38fe238bf051704658d70dc77779209cf2116687ef6c835c9d98.
+- main.py unchanged; tested twice again, both runs produced
+  /output/entry.png with the same SHA-256 as entry.png. Deterministic.
 
 ## 5. Program built
 - Created main.py (Python standard library only):
